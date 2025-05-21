@@ -1,0 +1,21 @@
+{
+  "name": "hello-world",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node --watch app.js"
+  },
+  "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Federicapaglia96/node-hello-world.git"
+  },
+  "tipe": "module",
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Federicapaglia96/node-hello-world/issues"
+  },
+  "homepage": "https://github.com/Federicapaglia96/node-hello-world#readme",
+  "description": ""
+}
